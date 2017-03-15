@@ -1,2 +1,2 @@
-Functionality requirements
+Functionality Marking Rubric
 ==========================
