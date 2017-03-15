@@ -2,7 +2,7 @@
 
 Here we will construct a rubric for both the final presentation and final project functionality. You input is critical.
 
-The final **demo** is worth 10% and the project **functionality** is worth 15%.
+The final **demo** is worth 10% and the project **functionality** is worth 20%.
 
 You may share ideas by
 
